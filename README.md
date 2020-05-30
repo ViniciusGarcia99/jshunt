@@ -1,3 +1,14 @@
-![Screenshot at 2019-08-30 11-45-30](https://user-images.githubusercontent.com/37624705/64029846-c4557080-cb1b-11e9-8b62-10bcc5c81ace.png)
+<h1>Git Web</h1>
+<h3>Uma interface gráfica para listagens de bibliotecas Javascript</h3>
+<p>Para instalar dependências: 
+npm install</p>
+<p>Para rodar localmente:
+npm start</p>
+<h4>Ferramentas:</h4>
+<span>- ReactJS</span><br>
+<span>- HTML</span><br>
+<span>- Axios</span>
 
-![Screenshot at 2019-08-30 11-45-42](https://user-images.githubusercontent.com/37624705/64029853-c8818e00-cb1b-11e9-8203-da5ffeb32c1a.png)
+![Capturar](https://user-images.githubusercontent.com/66105229/83317346-33263e00-a202-11ea-880a-201833a33d2b.PNG)
+
+![Capturar2](https://user-images.githubusercontent.com/66105229/83317354-3cafa600-a202-11ea-8783-dd3a9e06d857.PNG)
