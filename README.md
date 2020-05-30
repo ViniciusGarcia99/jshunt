@@ -1,4 +1,4 @@
-<h1>Git Web</h1>
+<h1>JSHunt</h1>
 <h3>Uma interface gráfica para listagens de bibliotecas Javascript</h3>
 <p>Para instalar dependências: 
 npm install</p>
